@@ -10,7 +10,7 @@ I am a dedicated and results-driven Front-End Developer with a passion for creat
 - 🇺🇦 I'm from Ukraine
 - 🔭 Currently working in **Atlasiko**
 - 🖍 Makes new modules in [Gudhub Platform](https://github.com/GudHubPlatform/)
-- 🎮 Sometimes help my friend with his project - [Gameverse](https://gameverse.com.ua)
+- 💰 Develop and review junior on [TheCoinEarn project](https://thecoinearn.com/)
 - 💬 Ask me about anything tech related, I am happy to help
 
 ### 🧠 Skills:
